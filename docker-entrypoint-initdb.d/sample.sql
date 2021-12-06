@@ -1,0 +1,10 @@
+SET CHARSET utf8mb4;
+
+CREATE TABLE IF NOT EXISTS teams(
+  id BIGINT NOT NULL,
+  name VARCHAR(191) NOT NULL,
+  PRIMARY KEY (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+INSERT IGNORE INTO teams(id, name) VALUES (1, '通販');
+INSERT IGNORE INTO teams(id, name) VALUES (2, 'ファンティア');
