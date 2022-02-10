@@ -28,4 +28,4 @@ Webブラウザを開くと下記のように表示される
 
 詳しくはこちらの記事を参照
 
-TODO: ブログ記事URL
+https://toranoana-lab.hatenablog.com/entry/2021/12/07/113005
